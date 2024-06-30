@@ -1,4 +1,4 @@
-package MO;
+package MethodOverriding;
 import java.util.Scanner;
 class Sample{
     int get(int a){
